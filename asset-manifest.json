@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Guessing_game/static/css/main.510f20e7.css",
+    "main.js": "/React_Guessing_game/static/js/main.53ccd661.js",
+    "static/js/787.47ffe113.chunk.js": "/React_Guessing_game/static/js/787.47ffe113.chunk.js",
+    "index.html": "/React_Guessing_game/index.html",
+    "main.510f20e7.css.map": "/React_Guessing_game/static/css/main.510f20e7.css.map",
+    "main.53ccd661.js.map": "/React_Guessing_game/static/js/main.53ccd661.js.map",
+    "787.47ffe113.chunk.js.map": "/React_Guessing_game/static/js/787.47ffe113.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510f20e7.css",
+    "static/js/main.53ccd661.js"
+  ]
+}
